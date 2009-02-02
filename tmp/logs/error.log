@@ -1,0 +1,2 @@
+2009-02-01 15:17:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/login/index.ctp, line 2]
+2009-02-01 15:17:38 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/login/index.ctp, line 2]
