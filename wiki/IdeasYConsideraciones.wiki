@@ -1,5 +1,4 @@
 #labels ideas,consideraciones
-
 = *Características del sitio* =
 
 - Posibilidad de crear eventos, públicos o privados (por invitacion).
@@ -39,3 +38,5 @@
 - Buscar por tipo de evento, nombre, ciudad, provincia, etc
 
 - Enviar e-mail cuando se aproxime la fecha del evento
+
+- Intereses del usuario, poder conectar a los usuarios de esta forma
